@@ -1,0 +1,23 @@
+{
+  "SignIn": {
+    "Title": "Sign In",
+    "Button": "Continue"
+  },
+  "SignUp": {
+    "Title": "Sign Up",
+    "Button": "Continue"
+  },
+  "MyAutomations": {
+    "Title": "My Automations"
+  },
+  "CreateAutomation": {
+    "Title": "Create Automation",
+    "Selects": {
+      "TriggerService": "Trigger Service",
+      "Trigger": "Trigger",
+      "ActionService": "Action Service",
+      "Action": "Action"
+    },
+    "Button": "Create"
+  }
+}
